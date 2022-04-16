@@ -1,8 +1,10 @@
 # Partial Pressure Calculator
 
-Usage: python partial_pressure_calculator.py
+Usage: bash run_solver.sh -r <"interactive"|"file">
+Output: Component Name and partial pressure of component in atmospheres.
 
-Output: Component Name and partial pressure of component in atmospheres
+Usage help: bash run_solver.sh -h
+Output: Syntax for bash script and python inputs.
 
 A simple Python code that computes partial pressures of gases given the total\
 pressure of their surroundings and their mass. It utilizes another code,\
