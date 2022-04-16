@@ -5,3 +5,5 @@ Output: Component Name and partial pressure of component in atmospheres.
                                                                                 
 Usage help: bash run_solver.sh -h
 Output: Syntax for bash script and python inputs.
+
+<strong>Documentation under construction</strong>
